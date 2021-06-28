@@ -1,0 +1,2 @@
+rootProject.name = "ThePowerOfCompounding"
+include ':app'
